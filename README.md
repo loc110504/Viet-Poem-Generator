@@ -16,7 +16,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/loc110504/Viet-Poem-Generator.git
-cd your-repository-name
+cd Viet-Poem-Generator
 ```
 
 ### 2. Create virtual environment and install dependencies
