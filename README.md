@@ -2,6 +2,10 @@
 This project generates Vietnamese poetry using a pre-trained GPT-2 model for 7-word poetry.
 
 ## Data
+
+The dataset used for this project consists of Vietnamese poems. The data was sourced from the following GitHub repository:
+[Poem Generator Repository](https://github.com/fsoft-ailab/Poem-Generator/tree/master)
+
 You can find datasets in the following Google Drive folder:
 [Google Drive Folder](https://drive.google.com/drive/folders/1-Yu6tTGQSTXWZP7imaAkYfvxzZagwjsZ?usp=sharing)
 
